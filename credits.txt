@@ -1,0 +1,6 @@
+/**
+ * Author: Michael Hurley
+ * Core: HTML5 Boiler Plate
+ * JS Libraries: Google Chrome Frame, CSSFX, CSS3 Finalize, HTML5Support, jQuery, Modernizr, MooTools, Selectivzr, slidesjs, textshadow polyfill
+ * CSS Libraries: Normalizer, 1140gs (cssgrid.net)
+ */

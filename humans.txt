@@ -1,0 +1,13 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+/* TEAM */
+  Developer / Designer: Michael Hurley
+  Site: Hurley's
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components:
+	Core: HTML5 Boiler Plate
+	JS Libraries: Google Chrome Frame, CSSFX, CSS3 Finalize, HTML5Support, jQuery, Modernizr, MooTools, Selectivzr, slidesjs, textshadow polyfill
+	CSS Libraries: Normalizer, 1140gs (cssgrid.net)

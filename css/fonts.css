@@ -1,0 +1,135 @@
+/* Helvetica Neue LT Pro */
+@font-face {
+    font-family: 'ultra_light';
+    src: url('/fonts/ultra_light.eot?') format('eot');
+    src: url('/fonts/ultra_light.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/ultra_light.woff') format('woff'),
+         url('/fonts/ultra_light.ttf') format('truetype'),
+         url('/fonts/ultra_light.svg#ultra_light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'thin';
+    src: url('/fonts/thin.eot?') format('eot');
+    src: url('/fonts/thin.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/thin.woff') format('woff'),
+         url('/fonts/thin.ttf') format('truetype'),
+         url('/fonts/thin.svg#thin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'light';
+    src: url('/fonts/light.eot?') format('eot');
+    src: url('/fonts/light.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/light.woff') format('woff'),
+         url('/fonts/light.ttf') format('truetype'),
+         url('/fonts/light.svg#light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'roman';
+    src: url('/fonts/roman.eot?') format('eot');
+    src: url('/fonts/roman.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/roman.woff') format('woff'),
+         url('/fonts/roman.ttf') format('truetype'),
+         url('/fonts/roman.svg#roman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'medium';
+    src: url('/fonts/medium.eot?') format('eot');
+    src: url('/fonts/medium.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/medium.woff') format('woff'),
+         url('/fonts/medium.ttf') format('truetype'),
+         url('/fonts/medium.svg#medium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bold';
+    src: url('/fonts/bold.eot?') format('eot');
+    src: url('/fonts/bold.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/bold.woff') format('woff'),
+         url('/fonts/bold.ttf') format('truetype'),
+         url('/fonts/bold.svg#bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'heavy';
+    src: url('/fonts/heavy.eot?') format('eot');
+    src: url('/fonts/heavy.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/heavy.woff') format('woff'),
+         url('/fonts/heavy.ttf') format('truetype'),
+         url('/fonts/heavy.svg#heavy') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'black';
+    src: url('/fonts/black.eot?') format('eot');
+    src: url('/fonts/black.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/black.woff') format('woff'),
+         url('/fonts/black.ttf') format('truetype'),
+         url('/fonts/black.svg#black') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Palatino Linotype Italic */
+@font-face {
+    font-family: 'palai';
+    src: url('/fonts/palai.eot?') format('eot');
+    src: url('/fonts/palai.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/palai.woff') format('woff'),
+         url('/fonts/palai.ttf') format('truetype'),
+         url('/fonts/palai.svg#palai') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Afta Serif Thin Italic */
+@font-face {
+    font-family: 'afta-italic';
+    src: url('/fonts/afta-italic.eot');
+    src: url('/fonts/afta-italic.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/afta-italic.woff') format('woff'),
+         url('/fonts/afta-italic.ttf') format('truetype'),
+         url('/fonts/afta-italic.svg#afta-italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'kunstler';
+    src: url('/fonts/script.eot');
+    src: url('/fonts/script.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/script.woff') format('woff'),
+         url('/fonts/script.ttf') format('truetype'),
+         url('/fonts/script.svg#script') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'savoye';
+    src: url('/fonts/savoye.eot');
+    src: url('/fonts/savoye.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/savoye.woff') format('woff'),
+         url('/fonts/savoye.ttf') format('truetype'),
+         url('/fonts/savoye.svg#savoye') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
